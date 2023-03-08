@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"./getopt"
+	"github.com/cniessigma/mtool/getopt"
 )
 
 var (
